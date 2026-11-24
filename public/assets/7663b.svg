@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="stroke0_0_6" fill="white">
+<path d="M18.8571 0H3.14286C1.04762 0 0 0.733333 0 2.2V19.8C0 21.2667 1.04762 22 3.14286 22H18.8571C20.9524 22 22 21.2667 22 19.8V2.2C22 0.733333 20.9524 0 18.8571 0Z"/>
+</mask>
+<path id="Symbol" d="M3.14286 0H18.8571C20.9524 0 22 0.733333 22 2.2V19.8C22 21.2667 20.9524 22 18.8571 22H3.14286C1.04762 22 0 21.2667 0 19.8V2.2C0 0.733333 1.04762 0 3.14286 0Z" stroke-width="3.4" stroke-linecap="round" stroke="#9E6652" mask="url(#stroke0_0_6)"/>
+</svg>

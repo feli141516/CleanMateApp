@@ -1,0 +1,10 @@
+{
+  "description": "A responsive CleanMate splash screen introduces the cleaning service app, giving users a polished first impression on mobile devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
